@@ -1,4 +1,4 @@
-# Tether WDK x Fairblock SDK Demo
+# confidential-tether-wdk
 
 This simple demo showcases how the **Tether WDK** can be extended using the **Fairblock SDK** to enable **confidential transfers**.
 
